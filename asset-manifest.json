@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_58_jrudenko/static/css/main.80e3aa0f.css",
-    "main.js": "/react_node_fs_58_jrudenko/static/js/main.293d1dce.js",
+    "main.js": "/react_node_fs_58_jrudenko/static/js/main.aa06166e.js",
     "static/js/450.ffac786e.chunk.js": "/react_node_fs_58_jrudenko/static/js/450.ffac786e.chunk.js",
     "static/js/660.2425050c.chunk.js": "/react_node_fs_58_jrudenko/static/js/660.2425050c.chunk.js",
     "static/js/180.fea65918.chunk.js": "/react_node_fs_58_jrudenko/static/js/180.fea65918.chunk.js",
@@ -92,7 +92,7 @@
     "static/media/WelcomeSectionLogo.svg": "/react_node_fs_58_jrudenko/static/media/WelcomeSectionLogo.415f32a94a3c20057f5073962eda1b80.svg",
     "static/media/clock1.svg": "/react_node_fs_58_jrudenko/static/media/clock1.6521cc8abf7aa82709c51f1a4bf40698.svg",
     "main.80e3aa0f.css.map": "/react_node_fs_58_jrudenko/static/css/main.80e3aa0f.css.map",
-    "main.293d1dce.js.map": "/react_node_fs_58_jrudenko/static/js/main.293d1dce.js.map",
+    "main.aa06166e.js.map": "/react_node_fs_58_jrudenko/static/js/main.aa06166e.js.map",
     "450.ffac786e.chunk.js.map": "/react_node_fs_58_jrudenko/static/js/450.ffac786e.chunk.js.map",
     "660.2425050c.chunk.js.map": "/react_node_fs_58_jrudenko/static/js/660.2425050c.chunk.js.map",
     "180.fea65918.chunk.js.map": "/react_node_fs_58_jrudenko/static/js/180.fea65918.chunk.js.map",
@@ -110,6 +110,6 @@
   },
   "entrypoints": [
     "static/css/main.80e3aa0f.css",
-    "static/js/main.293d1dce.js"
+    "static/js/main.aa06166e.js"
   ]
 }
